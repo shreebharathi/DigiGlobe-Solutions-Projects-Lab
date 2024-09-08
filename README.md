@@ -57,7 +57,11 @@ Please add your details to the table below after your pull request has been merg
 
 | Full Name       | Category      | Deployed Link | Date       | Tech Stack Used |
 | --------------- | ------------- | --------------|------------|-----------------|
+<<<<<<< HEAD
 | Divyashree Prakash  | Hero Section |    | 06-09-2024 | HTML, CSS, JS   |
+=======
+| Divyashree  | Hero Section | .............  | 06-09-2024 | HTML, CSS, JS   |
+>>>>>>> 2d7f225e420ba095de1e805ab90276c3ef65a3fa
 
 ## Note
 - Ensure your code follows the best practices and is well-documented.
