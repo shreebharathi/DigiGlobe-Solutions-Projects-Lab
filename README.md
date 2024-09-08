@@ -57,12 +57,7 @@ Please add your details to the table below after your pull request has been merg
 
 | Full Name       | Category      | Deployed Link | Date       | Tech Stack Used |
 | --------------- | ------------- | --------------|------------|-----------------|
-| Your Full Name  | Your Category | [Link](URL)   | DD-MM-YYYY | HTML, CSS, JS   |
-
-## Example Entry
-| Full Name       | Category      | Deployed Link | Date       | Tech Stack Used |
-| --------------- | ------------- | --------------|------------|-----------------|
-| John Doe        | Hero Section  | [Link](https://example.com) | 15-07-2024 | HTML, CSS, JS   |
+| Divyashree Prakash  | Hero Section |    | 06-09-2024 | HTML, CSS, JS   |
 
 ## Note
 - Ensure your code follows the best practices and is well-documented.
